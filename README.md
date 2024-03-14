@@ -1,0 +1,1 @@
+This is an application that is using the countries rest api which allows you to see all the countries in the world and check some of their details individually. MVVM architecture was used alongside some important OOP and API implementations.
