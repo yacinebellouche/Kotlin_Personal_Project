@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin_Personal_Project</string>
+    <string name="info_page_title">Info Page</string>
+    <string name="country_name">Country Name: %1$s</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="un_member">It\'s a UN member</string>
+    <string name="region">Region: %1$s</string>
+    <string name="area_km">Area: %1$s Km²</string>
+    <string name="population">Population: %1$s</string>
+    <string name="info_page">Info Page</string>
+    <string name="info_page_content">This is an application that allows to see common information about all the countries around the world. developed By Yacine</string>
+</resources>
